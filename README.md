@@ -1,6 +1,6 @@
 # SmartBridgeMonitoringSystem
 
-![SmartBridge_Thume](https://github.com/user-attachments/assets/6a171455-27b6-45a4-beb9-2e9dcd9a2636)
+![SmartBridge_Thume](https://github.com/user-attachments/assets/612e5b17-3449-46ab-acfc-319ab29cbbbc)
 
 ## 🌟 프로젝트 소개
 본 프로젝트는 교량의 안전 상태를 실시간으로 모니터링하고 드론을 활용한 자동 점검이 가능한 통합 관제 시스템입니다. Unity와 Arduino를 연동하여 실시간 센서 데이터를 수집하고, 드론을 통한 교량 점검 및 균열 분석 기능을 제공합니다.
